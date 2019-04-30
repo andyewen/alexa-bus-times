@@ -2,5 +2,5 @@
 
 ## Setup
 
-Install and configure AWS CLI
-Install pipenv
+- Install and configure AWS CLI
+- Install pipenv
